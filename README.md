@@ -12,14 +12,11 @@ Building scalable web applications, simulation software, and interactive experie
   <img src="https://img.shields.io/badge/Game-Developer-000000?style=flat-square" />
 </p> -->
 
-  <p align="center">
+<p align="center"> 
   <a href="https://alsappari.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=link&logoColor=white" />
-  </a>
+    <kbd>🔗 Portfolio</kbd></a> &nbsp; 
   <a href="https://linkedin.com/in/alfaisal-sappari">
-    <img src="https://img.shields.io/badge/LinkedIn-181717?style=flat-square&logo=link&logoColor=white" />
-  </a>
-  </p>
+    <kbd>🔗 LinkedIn</kbd></a> </p>
 
 </div>
 
