@@ -14,7 +14,6 @@ Building scalable web applications, simulation software, and interactive experie
 
 <p>
   <a href="https://alsappari.vercel.app">Portfolio</a> •
-  <a href="https://github.com/alfai-sap">GitHub</a> •
   <a href="https://linkedin.com/in/alfaisal-sappari">LinkedIn</a>
 </p>
 
