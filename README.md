@@ -99,7 +99,7 @@ Educational simulation game designed to teach pharmaceutical drug compounding pr
 
 ## Currently
 
-- Building full-stack applications with React and Django
+- Building full-stack applications
 - Exploring system design and scalable architectures
 - Developing gameplay systems and prototypes in Unreal Engine 5
 
