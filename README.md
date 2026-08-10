@@ -4,7 +4,7 @@
 
 ### Software Engineer • Game Developer
 
-Building scalable web applications, simulation software, and interactive experiences.
+Building full-stack web applications, scalable software, and games.
 
 <!-- <p>
   <img src="https://img.shields.io/badge/Computer%20Science-Graduate-000000?style=flat-square" />
@@ -104,9 +104,3 @@ Educational simulation game designed to teach pharmaceutical drug compounding pr
 - Developing gameplay systems and prototypes in Unreal Engine 5
 
 ---
-
-<div align="center">
-
-*Building software, creating games, and turning ideas into interactive experiences.*
-
-</div>
