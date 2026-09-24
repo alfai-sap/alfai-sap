@@ -23,8 +23,7 @@ Building full-stack web applications, scalable software, and games.
 ---
 ## About
 
-- BS Computer Science Graduate from **Western Mindanao State University**
-- Full-Stack Developer with experience building modern web applications
+- Full-Stack Developer building modern web applications
 - Game Developer specializing in gameplay programming and level design
 - Currently exploring Software Engineering, System Design, and Game Technologies
 
@@ -86,10 +85,6 @@ Educational simulation game designed to teach pharmaceutical drug compounding pr
 ---
 
 ## Experience
-
-**Level Designer & Gameplay Programmer**  
-*Zamboanga Indie Game Developers Club*  
-2024 – Present
 
 **UI/UX Designer & Full-Stack Developer**  
 *LendWorks Startup Venture*  
