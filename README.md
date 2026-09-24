@@ -3,8 +3,9 @@
 # ALFAISAL M. SAPPARI
 
 ### Software Engineer • Game Developer
-
-Building full-stack web applications, scalable software, and games.
+<!-- <p>
+  Building full-stack web applications, scalable software, and games.
+</p> -->
 
 <!-- <p>
   <img src="https://img.shields.io/badge/Computer%20Science-Graduate-000000?style=flat-square" />
